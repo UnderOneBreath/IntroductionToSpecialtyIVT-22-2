@@ -5,8 +5,8 @@
 
 class rectangle:
     def get_perimeter(self):
-        p = 2*(self.width + self.height)
-        return p
+        return 2*(self.width + self.height)
+    
     def __init__(self):
         self.width = 5
         self.height = 5
