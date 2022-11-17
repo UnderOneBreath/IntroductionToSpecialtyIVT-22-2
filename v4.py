@@ -30,6 +30,3 @@ def main():
     writeData('users.json', users)
     writeData('usersData.json', usersData)
     writeData('usersPasswords.json', usersPasswords)
-
-
-main()
